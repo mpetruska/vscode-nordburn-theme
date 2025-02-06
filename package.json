@@ -1,0 +1,36 @@
+{
+  "name": "nordburn",
+  "displayName": "Nordburn",
+  "description": "Nordburn color theme",
+  "version": "0.1.0",
+  "publisher": "mpetruska",
+  "repository": "https://github.com/mpetruska/vscode-nordburn-theme",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "zenburn",
+    "nord",
+    "dark",
+    "low contrast"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordburn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nordburn-color-theme.json"
+      },
+      {
+        "label": "Blueburn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blueburn-color-theme.json"
+      }
+    ]
+  }
+}
