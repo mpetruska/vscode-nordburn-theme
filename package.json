@@ -2,13 +2,13 @@
   "name": "nordburn",
   "displayName": "Nordburn",
   "description": "Nordburn color theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MarkPetruska",
   "repository": "https://github.com/mpetruska/vscode-nordburn-theme",
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.20.0"
   },
   "categories": [
     "Themes"
